@@ -1,0 +1,1011 @@
+ul, ul li {
+    margin: 0; padding: 0; list-style: none; 
+ }
+ body{
+     border: 0;
+     margin: 0;
+ }
+#header #logo {
+    float: left;
+}
+#header #menu {
+    float:right;
+ }
+ h1, h2, h3, p {
+    margin: 0; padding: 0;
+}
+form{
+    margin: 0;
+    padding: 2px;
+}
+#principal{
+    width: 100%;
+    height: auto;
+  } 
+#principal{
+position:absolute;
+}
+#menu ul#menu_1 li {
+    display: inline;
+}
+#header #logo #n {
+    float: right;
+}
+#header {
+    background-color: darkslategray;
+    height: 61.5px;
+}
+#inicio {
+    background-color: #2F4254;
+    height: 640px;
+}
+#logo{
+    padding-top: 2.7px;
+}
+#logo{
+    padding-right: 8px;
+}
+#n {
+    padding-top: 17px;
+}
+#header #logo {
+    padding-left: 90px;
+}
+#header #n {
+    padding-left: 100px;
+}
+
+#header #menu #menu_1{
+    float: right;
+}
+img{
+    display:block;
+    margin:auto;
+    }
+
+#inicio ul#inicio2 li #Fb #tw #go #in #s{
+    display: inline;
+    padding-right: 280px;
+}
+/*CODIGO PARA AJUSTAR EL TAMAÑO DE LA LETRAS QUE ESTA ENTRE ICONOS*/
+#s{
+    position:relative;
+    right:-660px;
+    top:-192px;
+    font-size: 48px;
+ }
+ /*CODIGO PARA AJUSTAR EL TAMAÑO DE LOS BOTONES Y ASINARLE UN COLOR*/
+  .boton_2{
+    margin-left: 665px;
+    margin-top: 665px;
+    text-decoration: none;
+    padding:15px;
+    font-family: 'Montserrat';
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    color:  rgb(41, 15, 255);
+    border: 1px;
+    border-color: floralwhite;
+    border-radius: 7px;
+  }
+  .boton_2:hover{
+    color:  #00ffae;
+    background-color: #1b8261;
+    text-decoration: none;
+  }
+  /**CONFIGURA LA POSICION A DONDE SE VA A IR*/
+ #btn{
+    border-color: floralwhite;
+    position:relative;
+    right:23px;
+    top:-192px;
+    font-size: 48px;
+    border: 1px;
+ }
+  /*CODIGO PARA AJUSTAR EL TAMAÑO DE LOS BOTONES Y ASINARLE UN COLOR*/
+ .boton_3{
+    margin-left: 665px;
+    margin-top: 665px;
+    text-decoration: none;
+    padding:15px;
+    font-family: 'Montserrat';
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    color:  rgb(41, 15, 255);
+    border: 1px;
+    border-color: floralwhite;
+    border-radius: 7px;
+  }
+  .boton_3:hover{
+    color:  #00ffae;
+    background-color: #1b8261;
+    text-decoration: none;
+  }
+    /**CONFIGURA LA POSICION A DONDE SE VA A IR*/
+ #btn3{
+    border-color: floralwhite;
+    position:relative;
+    right:-130px;
+    top:-247px;
+    font-size: 48px;
+    border: 1px;
+ }
+ 
+#principal{
+
+    background-color: #34495E;
+}
+.p{
+    padding-top: -100px;
+   
+}
+.ques10{
+    background-color: #34495E;
+}
+ .linea{
+   
+     padding-left: 181px;
+     width: 100px;
+ }
+ .tex{
+    padding-top: -45px;
+    padding-left: 181px;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    line-height: 150%;
+ 
+ }
+       
+/*PARTE 3 DEL EXAMEN*/
+    #ques{
+        background-color: #1ABC9C;
+        padding-bottom: 95px;
+    }
+    .tab2{
+        text-align: justify;
+     }
+
+    .d{
+        position: relative;
+        padding-left: -7px;
+        text-align: center;
+        font-family: 'Montserrat';
+        font-size: 45px;
+        line-height: 1.42857143;
+
+    }
+    .d2{
+        position: relative;
+        padding-left: 5px;
+        text-align: center;
+       font-family: 'Montserrat';
+        font-size: 17px;
+        line-height: 1.42857143;
+    }
+
+    /*ACOMODACION POR PARTE DE LOS TD DE LA PAGINA 3*/
+
+    .seo1{
+        padding-left: 205px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    .dia{
+        padding-left: -50px;
+        line-height: 20px;
+        text-align: justify;
+        width: 280;
+    }
+    .laptop{
+        padding-right: -190px;
+        line-height: 20px;
+        text-align: justify;
+
+    }
+    .grafica{
+       margin-right: 60px;
+        text-align: justify;
+
+    }
+
+
+    /**FIN DE LA ORDENACION/
+    /*TAMAÑO Y UBICACION DE LA IMG*/
+
+
+    .frasco{
+        margin-left: 40px;
+    height:175px;
+    right: 40px;
+    
+    }
+    .diamante{
+        margin-left: -30px;
+        height:175px;
+    }
+    .lap{
+        margin-left: 30px;
+        height:175px;
+    }
+    .ga{
+        margin-left: 4px;
+        height:175px;
+    }
+    /*FIN DE LA EDICION*/
+
+    /* AQUI EMPIEZAN LOS CUADROS DEL TITULO*/
+  
+    .d3{
+
+        position: relative;
+        padding-left: 85px;
+        text-align: justify;
+        font-family: 'Alegreya Sans SC';
+        color: ivory;
+        font-size: 24px;
+        line-height: 1.42857143;
+        width: 250px;
+  
+    }
+
+    .d5{
+
+        position: relative;
+        margin-left: -35px;
+        text-align: justify;
+        font-family: 'Alegreya Sans SC';
+        color: ivory;
+        font-size: 24px;
+        line-height: 1.42857143;
+        width: 250px;
+  
+    }
+
+    .d7{
+
+        position: relative;
+        padding-left: 35px;
+        text-align: justify;
+        font-family: 'Alegreya Sans SC';
+        color: ivory;
+        font-size: 24px;
+        line-height: 1.42857143;
+        width: 250px;
+  
+    }
+
+    .d9{
+
+        position: relative;
+        padding-left: -50px;
+        text-align: justify;
+        font-family: 'Alegreya Sans SC';
+        color: ivory;
+        font-size: 24px;
+        line-height: 1.42857143;
+        width: 240px;
+  
+    }
+
+    /*AQUI EMPIEZA EL CAMPO DE TEXTO*/
+    .d4{
+        position: relative;
+        margin-left: -1px;
+        padding-left: -90px;
+        text-align: justify;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1.42857145;
+        width: 250px;
+        box-sizing: border-box;
+        color:  #ffffff;
+    }
+    
+    .d6{
+        position: relative;
+        margin-left: -58px;
+        padding-left: -90px;
+        text-align: justify;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1.42857145;
+        width: 250px;
+        box-sizing: border-box;
+        color:  #ffffff;
+    }
+    .d8{
+        position: relative;
+        margin-left: 2px;
+        padding-left: -90px;
+        text-align: justify;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1.42857145;
+        width: 250px;
+        box-sizing: border-box;
+        color:  #ffffff;
+    }
+    .d10{
+        position: relative;
+        margin-left: -6px;
+        margin-right: 40px;
+        padding-left: -90px;
+        text-align: justify;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1.42857145;
+        width: 250px;
+        box-sizing: border-box;
+        color:  #ffffff;
+    }
+
+  /*FINAL DE LA CADENA DE TEXTOS*/
+    .cps1{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1.42857145;
+        padding-top: 40px;
+        padding-left: 165px;
+        color:  #ffffff;
+    }
+    .cps2{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1.42857145;
+        padding-top: 40px;
+        padding-left: 165px;
+        color:  #ffffff;
+    }
+    .cps3{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1.42857145;
+        padding-top: 40px;
+        padding-left: 165px;
+        color:  #ffffff;
+    }
+    .cps4{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1.42857145;
+        padding-top: 40px;
+        padding-left: 155px;
+        color:  #ffffff;
+    }
+    .cps5{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1.42857145;
+        padding-top: 40px;
+        padding-left: 165px;
+        color:  #ffffff;
+    }
+    .cps6{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1.42857145;
+        padding-top: 40px;
+        padding-left: 165px;
+        color:  #ffffff;
+    }
+    #ques3{
+        background-color: #000000;
+    }
+    #ques4{
+        background-color:  #34495E;
+        height: 250px;
+    }
+
+    #ques2{
+        background-color: #1b4d82;
+        padding-top: -20px;
+        height: 150px;
+        padding-bottom: 25px;
+    }
+    .number1{
+        
+        margin-left:5px;
+    }
+    .number2{
+        margin-left:-75px;
+    }
+    .number3{
+   
+        margin-left: -40px;
+    }
+    .number4{
+        margin-left: -60px;
+    }
+    .number5{
+        margin-left: -83px;
+    }
+    .number6{
+        margin-left: -75px;
+    }
+
+    .dino1{
+        margin-left: 45px;
+
+    }
+    .dino2{
+        margin-left: -40px;
+    }
+    .dino3{
+        margin-right: 40px;
+    }
+    .dino4{
+        margin-left: -50px;
+
+    }
+    .dino5{
+        margin-left: -55px;
+    }
+    .dino6{
+        margin-left: -30px;
+    }
+
+
+ /*FRASE MOTIVACION SEGUN Xd*/
+    .fa{
+        padding-right: 15px;
+        padding-left: 0;
+        text-align: center;
+        border-right: 5px solid #363c43;
+        border-left: 0;
+        box-sizing: border-box;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 400px;
+        margin-inline-end: 400px;
+
+    }
+    .frase{
+        text-align: center;
+        font-size: 20px;
+    }
+    .fos{
+    padding-left: 390px;
+    }
+
+
+
+    /*PARTE 4 DE LA PAGINA*/
+    #ques5{
+        background-color: #1ABC9C;
+    }
+    .rf{
+        text-align: center;
+        color: ivory;
+    }
+    .we{
+        text-align: center;
+        color: ivory;
+    }
+
+        .img1{
+         height: -20px;
+         width: -20px;
+         padding-right: 490px;
+        }
+       .img2{
+  
+        float: right;
+        padding-left: 450px;
+       }
+       .tab{
+           border: 1px;
+           border-color: midnightblue;
+           padding-left: 210px;
+        }
+
+       .ubicacion{
+           padding-left: -30px;
+           padding-right: 40px;
+        }
+       .shop{
+        padding-left: -30px;
+        padding-right: 40px;
+        }
+
+       .cohete{
+        padding-left: -40px;
+        padding-right: -150px;
+        }
+
+        .bandera{
+            padding-left: -40px;
+            padding-right: -150px;
+         }
+
+         .libros{
+            padding-left: 40px;
+            padding-right: 200px;
+        }
+        .palo{
+            padding-left: 40px;
+            padding-right: 200px;
+        }
+
+
+/*
+FIN DE LA PARTE 4
+*/
+
+    #ques7{
+        background-color: #34495E;
+        height: 500px;
+    }
+
+        .card-precio{
+            float: left;
+            width: 300px;
+            height: 370px;
+            margin-top: 10px;
+            margin-left: 40px;
+        
+            box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
+        
+        }
+        .preciop1  {
+            margin-top: 0px;
+            height: 40%;
+            width: 100%;
+            background-color:#1d4e80;
+        
+        }
+        .preciop1{
+            height: 40%;
+            width: 100%;
+            background-color: #e0e0e0;
+        }
+        .btn{
+            border-color: darkred 2px;
+            margin-top: 20px;
+            margin-left:105px;
+            border-radius:7px ;
+            color:rgb(164, 38, 38);
+        }
+        .preciop1{
+            height: 20%;
+            width: 100%;
+            background-color: #CCC;
+        
+        }
+        .circular{
+        
+            width: 40px;
+            height: 40px;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
+            text-align: center;
+            padding-left: 4px;
+            padding-top: 15px;
+            padding-right: 20px;
+            padding-bottom: 15px;
+            margin: auto auto;
+            border-radius: 300px;
+            margin-top: 20px;
+            font-size: 20px;
+            background-color: white;
+        }
+        /*-------------------------------------------------------------------------*/
+        .contenedor2{
+            width: 300px;
+            height: 370px;
+            margin-top: -380px;
+            margin-left: 450px;
+         }
+
+         .card-precio{
+            float: left;
+            width: 300px;
+            height: 370px;
+            margin-top: 10px;
+            margin-left: 40px;
+            box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
+        
+        }
+        .preciop1  {
+            margin-top: 0px;
+            height: 40%;
+            width: 100%;
+            background-color:#1d4e80;
+        
+        }
+        .preciop1{
+            height: 40%;
+            width: 100%;
+            background-color: #e0e0e0;
+        }
+        .btn{
+            border-color: darkred 2px;
+            margin-top: 20px;
+            margin-left:105px;
+            border-radius:7px ;
+            color:rgb(164, 38, 38);
+        }
+        .preciop1{
+            height: 20%;
+            width: 100%;
+            background-color: #CCC;
+        
+        }
+        .circular{
+        
+            width: 40px;
+            height: 40px;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
+            text-align: center;
+            padding-left: 4px;
+            padding-top: 15px;
+            padding-right: 20px;
+            padding-bottom: 15px;
+            margin: auto auto;
+            border-radius: 300px;
+            margin-top: 20px;
+            font-size: 20px;
+            background-color: white;
+        }
+     /*---------------------------------------------------------------------------------------------------------*/
+
+     .contenedor3{
+        width: 300px;
+        height: 370px;
+        margin-top: -380px;
+        margin-left: 980px;
+     }
+     .card-precio20{
+        float: left;
+        width: 300px;
+        height: 370px;
+        margin-top: 10px;
+        margin-left: 40px;
+    
+        box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
+    
+    }
+    .preciop20 {
+        margin-top: 0px;
+        height: 40%;
+        width: 100%;
+        background-color:#1d4e80;
+    
+    }
+    .preciop20{
+        height: 40%;
+        width: 100%;
+        background-color: #e0e0e0;
+    }
+    .preciop20{
+        height: 20%;
+        width: 100%;
+        background-color: #CCC;
+    
+    }
+    .btn{
+        border-color: darkred 2px;
+        margin-top: 20px;
+        margin-left:105px;
+        border-radius:7px ;
+        color:rgb(164, 38, 38);
+    }
+    .circular20{
+    
+        width: 40px;
+        height: 40px;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
+        text-align: center;
+        padding-left: 4px;
+        padding-top: 15px;
+        padding-right: 20px;
+        padding-bottom: 15px;
+        margin: auto auto;
+        border-radius: 300px;
+        margin-top: 20px;
+        font-size: 20px;
+        background-color: white;
+    }
+    /*--------------------------------------------------------------------------------------------------------------------*/
+    .contenedor5{
+        width: 300px;
+            height: 370px;
+            margin-top: -380px;
+            margin-left: 450px;
+     }
+     .paquete{
+         margin-left: 130px;
+     }
+     .card-precio{
+        float: left;
+        width: 300px;
+        height: 370px;
+        margin-top: 10px;
+        margin-left: 40px;
+        box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
+    
+    }
+    .lista_precios{
+        padding-top: 15px;
+        text-align: center;
+    }
+    .preciop1  {
+        margin-top: 0px;
+        height: 40%;
+        width: 100%;
+        background-color:#1d4e80;
+    
+    }
+    .preciop1{
+        height: 40%;
+        width: 100%;
+        background-color: #e0e0e0;
+    }
+    .preciop1{
+        height: 20%;
+        width: 100%;
+        background-color: #CCC;
+    
+
+    }
+    .btn{
+        border-color: darkred 2px;
+        margin-top: 20px;
+        margin-left:105px;
+        border-radius:7px ;
+        color:rgb(164, 38, 38);
+    }
+
+    .circular{
+    
+        width: 40px;
+        height: 40px;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
+        text-align: center;
+        padding-left: 4px;
+        padding-top: 15px;
+        padding-right: 20px;
+        padding-bottom: 15px;
+        margin: auto auto;
+        border-radius: 300px;
+        margin-top: 20px;
+        font-size: 20px;
+        background-color: white;
+    }
+/*------------------------------------------------------------------------------------------------------------------------*/
+.contenedor6{
+    width: 300px;
+    height: 370px;
+    margin-top: -380px;
+    margin-left: 980px;
+ }
+ .paquete{
+    margin-left: 130px;
+}
+ .card-precio{
+    float: left;
+    width: 300px;
+    height: 370px;
+    margin-top: 10px;
+    margin-left: 40px;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
+
+}
+.preciop1  {
+    margin-top: 0px;
+    height: 40%;
+    width: 100%;
+    background-color:#1d4e80;
+
+}
+.preciop1{
+    height: 40%;
+    width: 100%;
+    background-color: #e0e0e0;
+}
+.preciop1{
+    height: 20%;
+    width: 100%;
+    background-color: #CCC;
+
+}
+.btn{
+    border-color: darkred 2px;
+    margin-top: 20px;
+    margin-left:105px;
+    border-radius:7px ;
+    color:rgb(164, 38, 38);
+}
+.circular{
+
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
+    text-align: center;
+    padding-left: 4px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    margin: auto auto;
+    border-radius: 300px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: white;
+}
+
+/*------------------------------------------------------------------------------------------------------------------------*/
+        .ques8{
+            background-color:#139f79;
+            height: 500px;
+        }
+            .card-precio{
+                float: left;
+                width: 300px;
+                height: 370px;
+                margin-top: 10px;
+                margin-left: 40px;
+            
+                box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            
+            }
+            .preciop1  {
+                margin-top: 0px;
+                height: 40%;
+                width: 100%;
+                background-color:#34495E;
+            
+            }
+            .preciop2{
+                height: 40%;
+                width: 100%;
+                background-color: #e0e0e0;
+            }
+            .preciop3{
+                height: 20%;
+                width: 100%;
+                background-color: #CCC;
+            
+            }
+            .circular{
+            
+                width: 40px;
+                height: 40px;
+                box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
+                text-align: center;
+                padding-left: 4px;
+                padding-top: 15px;
+                padding-right: 20px;
+                padding-bottom: 15px;
+                margin: auto auto;
+                border-radius: 300px;
+                margin-top: 20px;
+                font-size: 20px;
+                background-color: white;
+            }
+    
+
+
+            #ques9{
+                background-color: #1ABC9C;
+                height: 650px;
+            }   
+            .comentario{
+            background-color: #1ABC9C;
+            height: 100px;
+            margin-top: 5px; 
+          
+             }
+             .img9{
+                 text-align: left;
+             }
+            .centrar-comentario{
+                height: 400px;
+                margin-top: 70px;
+            }
+            #ques9{
+                display: flex;
+            }
+            .centrar-comentario img{
+                padding-top: 35px;
+                float: center;
+                padding-left:-50px;
+            }
+            .texto-comentario{
+                margin-top:30px;
+                width: 400px;
+                height: 200px;
+                margin-left: 15px;
+                float:left;
+                box-shadow: 0 4px 8px  0 rgba(0,0,0,0.2); 
+                border-radius:10px;
+                background-color: #1ABC9C;
+            }
+            .texto-comentario h3{
+                color: white;
+                padding-left:10px;
+                padding-right:10px;
+            }
+        
+            #ques10{
+            }
+                .contact{
+                    width: 100%;
+                    background-color: #34495E;
+                    margin-top: -145px;
+                }
+                .divs_contact{
+                    width: 70%;
+                    box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
+                    border-radius: 8px;
+                    margin-left: 20%;
+                    margin-top: 40px;
+                    margin-bottom: 40px;
+                    background-color: #CCC;
+                
+                }
+                .formulario{
+                    width: 55%;
+                    display: inline-block;
+                
+                    margin-left: 40px;
+                    margin-bottom: 40px;
+                    margin-top: 80px;
+                    padding-left: 20px;
+                }
+                .button_form{
+                
+                    margin-top: 20px;
+                    padding-left: 150px;
+                 
+                    border-radius: 7px;
+                }
+                .persona {
+                    width: 30%;
+                    display: inline-block;
+                    margin-left: 8px;
+                }
+                
+                .persona p{
+                    color: rgb(255, 255, 255);
+                }
+                
+                .persona img{
+                    padding-left: 20px;
+                }
+                
+                .persona div{
+                
+                    background-color: #16A085;
+                    padding: 3px;
+                }
+                .direccion{
+                    border-radius: 5px;
+                }
+                input{
+                    width: 100%;
+                    height: 50%;
+                    border: 0;
+                    margin-bottom: 28px;
+                    height: 34px;
+                    padding: 4px 8px;
+                    border-radius: 5px;
+                }
+        
+                input{
+                    width: 100%;
+                    height: 50%;
+                    border: 0;
+                    margin-bottom: 28px;
+                    height: 34px;
+                    padding: 4px 8px;
+                    border-radius: 5px;
+                }
+
+
+    
+
+  
+  
+
