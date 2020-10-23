@@ -391,9 +391,7 @@ img{
         padding-left: 165px;
         color:  #ffffff;
     }
-    #ques3{
-        background-color: #000000;
-    }
+  
     #ques4{
         background-color:  #34495E;
         height: 250px;
@@ -447,6 +445,140 @@ img{
         margin-left: -30px;
     }
 
+
+    /*PARTE DE 3 DE LA PAGINA*/
+    #ques3{
+        background-color: #1ABC9C;
+            height: 900px;
+    }
+    /*parte 1*/
+    .dinotitulo{
+        font-family: 'Montserrat';
+        font-size: 35pt;
+        line-height: 1.42857145;
+        padding-top: 10px;
+        padding-left: 636px;
+        color:  #ffffff;
+    }
+    .dinotext{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+        padding-top: -10px;
+        padding-left: 295px;
+        color:  #ffffff;
+    }
+    .tricep{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color:  #ffffff;
+        padding-bottom: 20px;
+       
+    }
+    .dinofoto{
+        padding-right: 450px;
+        margin-left: -280px;
+   
+
+    }
+    .tricetitulo{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 15pt;
+        color:  #ffffff;
+        padding-bottom: 15px;
+        margin-left: 315px;
+        margin-top: -100px;
+      
+    }
+    .tricep2{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color:  #ffffff;
+        margin-left: 320px;
+        margin-top: -20px;
+    }
+     /**parte 2*/
+
+
+    .tricep2{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color:  #ffffff;
+        margin-bottom: 20px;
+    }
+    .dinofoto2{
+        padding-right: 450px;
+        margin-left: -560px;
+
+
+    }
+    .tricetitulo2{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 15pt;
+        color:  #ffffff;
+        margin-left: 1px;
+        margin-top: -20px;
+      
+    }
+    .tricep22{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color:  #ffffff;
+        margin-left: 1px;
+        margin-top: -100px;
+        margin-bottom: 75px;
+         
+    }
+      /**parte 3*/
+    .tricep3{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color:  #ffffff;
+       margin-bottom: 20px;
+    }
+    .dinofoto3{
+        padding-right: 450px;
+        margin-left: -450px;
+        padding-bottom: 62px;
+
+    }
+    .tricetitulo3{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 15pt;
+        color:  #ffffff;
+        padding-bottom: 15px;
+        margin-left: 158px;
+        margin-top: -180px;
+        margin-bottom: 10px;
+      
+    }
+    .tricep3{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color:  #ffffff;
+        margin-left: 160px;
+        margin-top: -40px;
+        margin-bottom: 80px;
+    }
+     /*parte 4*/
+    .tricep4{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color:  #ffffff;
+       
+    }
+    .dinofoto4{
+        padding-right: 450px;
+        margin-left: -590px;
+        
+    }
+    .tricetitulo4{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 15pt;
+        color:  #ffffff;
+        margin-left: 115px;
+        margin-top: -100px;
+        margin-bottom: 5px;
+    }
+    .tricep4{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color:  #ffffff;
+        margin-left: 120px;
+        margin-top: -20px;
+    }
+    /*FIN DE LA PARTE 3 DE LA PAGINA*/
 
  /*FRASE MOTIVACION SEGUN Xd*/
     .fa{
@@ -534,6 +666,7 @@ img{
 /*
 FIN DE LA PARTE 4
 */
+
 
     #ques7{
         background-color: #34495E;
@@ -839,6 +972,7 @@ FIN DE LA PARTE 4
         .ques8{
             background-color:#139f79;
             height: 500px;
+            margin-bottom: 20pt;
         }
             .card-precio{
                 float: left;
@@ -886,20 +1020,45 @@ FIN DE LA PARTE 4
             }
     
 
-
+/*CODIGO DE LA PARTES DE TESTIMONIOS*/
             #ques9{
                 background-color: #1ABC9C;
-                height: 650px;
+                height: 450px;
             }   
+
+            .foto{  
+                padding-top: 107px;
+                padding-right: 650px;
+            }
+            .t1{
+                font-size: 25pt;
+               margin-top: -170px;
+                padding-right: 35px;
+                padding-left: 450pt;
+            }
+            .t2{
+           
+                width: 690px;
+                padding-top: 15pt;
+                 padding-right: 35px;
+                 text-align: center;
+                 padding-left: 395px;
+             }
             .comentario{
-            background-color: #1ABC9C;
-            height: 100px;
-            margin-top: 5px; 
+                padding-top: -10px;
+                padding-bottom: -20px;
+                padding-right: 503px;
+                background-color: #1ABC9C;
+                height: 450px;
           
              }
-             .img9{
-                 text-align: left;
+             .comentario1 .foto{
+                 padding-left: 35px;
              }
+             .comentario1 .texto-comentario{
+                margin-left: 325px;
+                padding-bottom:-25px;
+            }
             .centrar-comentario{
                 height: 400px;
                 margin-top: 70px;
@@ -907,19 +1066,18 @@ FIN DE LA PARTE 4
             #ques9{
                 display: flex;
             }
-            .centrar-comentario img{
-                padding-top: 35px;
+            .centrar-comentario {
+                padding-top: 70px;
                 float: center;
                 padding-left:-50px;
             }
             .texto-comentario{
-                margin-top:30px;
+                margin-top:-80px;
                 width: 400px;
                 height: 200px;
-                margin-left: 15px;
-                float:left;
                 box-shadow: 0 4px 8px  0 rgba(0,0,0,0.2); 
                 border-radius:10px;
+                margin-right: -850pt;
                 background-color: #1ABC9C;
             }
             .texto-comentario h3{
@@ -927,7 +1085,43 @@ FIN DE LA PARTE 4
                 padding-left:10px;
                 padding-right:10px;
             }
-        
+            .cont1{
+    
+                background-color: #1ABC9C;
+                height: 450px;
+            }
+/*PARTE DE TESTIMONOOS PARTE 2*/
+            .centrar-comentario2{
+            padding-top: 70px;
+            float: center;
+            padding-left:80px;
+            }
+            .foto2{
+                float: left;
+            margin-left: -655pt;
+            margin-top:-23pt;
+            }
+            .texto-comentario2{
+                margin-top:-5pt;
+                float: right;
+                width: 400px;
+                height: 200px;
+                box-shadow: 0 4px 8px  0 rgba(0,0,0,0.2); 
+                border-radius:10px;
+                margin-left: -566pt;
+                margin-right:  490pt;
+                background-color: #1ABC9C;
+            }
+            .texto-comentario2 h3{
+                color: white;
+                padding-left:10px;
+                padding-right:10px;
+            }
+          
+          
+                 
+     /*INICIO DE LA PARTE 10*/
+
             #ques10{
             }
                 .contact{
@@ -1003,7 +1197,11 @@ FIN DE LA PARTE 4
                     border-radius: 5px;
                 }
 
-
+/*INICIO DE LA PARTE 11*/
+#ques11{
+    background-color: #351abc;
+    height: 250px;
+}
     
 
   
