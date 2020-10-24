@@ -11,6 +11,9 @@ ul, ul li {
 #header #menu {
     float:right;
  }
+ #menu #menu_1{
+     margin-left: -120px;
+ }
  h1, h2, h3, p {
     margin: 0; padding: 0;
 }
@@ -143,6 +146,7 @@ img{
 }
 .ques10{
     background-color: #34495E;
+    margin-bottom: 90px;
 }
  .linea{
    
@@ -459,6 +463,7 @@ img{
         padding-top: 10px;
         padding-left: 636px;
         color:  #ffffff;
+        text-align: justify;
     }
     .dinotext{
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -466,16 +471,18 @@ img{
         padding-top: -10px;
         padding-left: 295px;
         color:  #ffffff;
+        text-align: justify;
     }
     .tricep{
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         color:  #ffffff;
         padding-bottom: 20px;
+        text-align: justify;
        
     }
     .dinofoto{
-        padding-right: 450px;
-        margin-left: -280px;
+        padding-right: 230px;
+        margin-left: -19px;
    
 
     }
@@ -484,15 +491,16 @@ img{
         font-size: 15pt;
         color:  #ffffff;
         padding-bottom: 15px;
-        margin-left: 315px;
+        margin-left: 450px;
         margin-top: -100px;
       
     }
     .tricep2{
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         color:  #ffffff;
-        margin-left: 320px;
+        margin-left: 450px;
         margin-top: -20px;
+        text-align: justify;
     }
      /**parte 2*/
 
@@ -501,10 +509,11 @@ img{
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         color:  #ffffff;
         margin-bottom: 20px;
+        text-align: justify;
     }
     .dinofoto2{
         padding-right: 450px;
-        margin-left: -560px;
+        margin-left: -200px;
 
 
     }
@@ -512,46 +521,50 @@ img{
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 15pt;
         color:  #ffffff;
-        margin-left: 1px;
-        margin-top: -20px;
+        padding-left: -500px;
+        margin-top: -100px;
+        text-align: justify;
+        
       
     }
     .tricep22{
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         color:  #ffffff;
-        margin-left: 1px;
-        margin-top: -100px;
-        margin-bottom: 75px;
-         
+        padding-left: -500px;
+        margin-top: -10px;
+        margin-bottom: 125px;
+        text-align: justify;
     }
       /**parte 3*/
     .tricep3{
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-        color:  #ffffff;
-       margin-bottom: 20px;
+        color:  #790d0d;
+       margin-bottom: -10px;
+       text-align: justify;
     }
     .dinofoto3{
         padding-right: 450px;
-        margin-left: -450px;
-        padding-bottom: 62px;
+        margin-left: 230px;
+        margin-top: -90px;
 
     }
     .tricetitulo3{
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 15pt;
         color:  #ffffff;
-        padding-bottom: 15px;
-        margin-left: 158px;
-        margin-top: -180px;
-        margin-bottom: 10px;
+        margin-left: 454px;
+        margin-top: -140px;
+        margin-bottom: 5px;
+        text-align: justify;
       
     }
-    .tricep3{
+    .tricep33  {
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         color:  #ffffff;
-        margin-left: 160px;
-        margin-top: -40px;
+        padding-left: 454px;
+        margin-top: -20px;
         margin-bottom: 80px;
+        text-align: justify;
     }
      /*parte 4*/
     .tricep4{
@@ -561,22 +574,25 @@ img{
     }
     .dinofoto4{
         padding-right: 450px;
-        margin-left: -590px;
+        margin-left: 18px;
+        margin-top: -30px;
         
     }
     .tricetitulo4{
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 15pt;
         color:  #ffffff;
-        margin-left: 115px;
-        margin-top: -100px;
-        margin-bottom: 5px;
+        margin-left: 225px;
+        margin-top: -85px;
+        margin-bottom: 15px;
+        text-align: justify;
     }
     .tricep4{
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         color:  #ffffff;
-        margin-left: 120px;
-        margin-top: -20px;
+        padding-left: 226px;
+        margin-top: -32px;
+        text-align: justify;
     }
     /*FIN DE LA PARTE 3 DE LA PAGINA*/
 
@@ -670,118 +686,209 @@ FIN DE LA PARTE 4
 
     #ques7{
         background-color: #34495E;
-        height: 500px;
+        height: 480px;
+        margin-bottom: 30px;
     }
+    .card-1{
+        background-color: #4a5a6c;
+        height: 275px;
+        width: 330px;
+        margin-left: 210px;  
+        margin-top: 100px;
+    }
+    .botonred{
+        margin-top: 20px;
+        border-radius: 3px;
+        padding-bottom: 7px;
+        padding-top:7px;
+        color: white;
+        background-color: red;
+        margin-left: 235px;
+        margin-bottom: 20px;
+    }
+    .card{
+        background-color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .card-1 h3{
+        padding-top: 25px;
+    }
+    .data1{
+        float: left;
+        height:"30px";
+        margin-right: 292px;
+        padding-bottom: 5px;
+        padding-top: 10px;
+    }
+  
+    .data2{
+        float:right;
+        height:"30px";
+        padding-right: -50px;
+margin-left: -45px;
+        margin-right: 35px;
+        margin-bottom: 4px;
+        padding-top: -15px;
 
-        .card-precio{
-            float: left;
-            width: 300px;
-            height: 370px;
-            margin-top: 10px;
-            margin-left: 40px;
+ 
+    }
+    .data3{
+        height:"30px";
+        margin-right: 25px;
+        margin-left: -495px;
+        margin-bottom: 15px;
+        padding-top: 15px;
         
-            box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
-        
-        }
-        .preciop1  {
-            margin-top: 0px;
-            height: 40%;
-            width: 100%;
-            background-color:#1d4e80;
-        
-        }
-        .preciop1{
-            height: 40%;
-            width: 100%;
-            background-color: #e0e0e0;
-        }
-        .btn{
-            border-color: darkred 2px;
-            margin-top: 20px;
-            margin-left:105px;
-            border-radius:7px ;
-            color:rgb(164, 38, 38);
-        }
-        .preciop1{
-            height: 20%;
-            width: 100%;
-            background-color: #CCC;
-        
-        }
-        .circular{
-        
-            width: 40px;
-            height: 40px;
-            box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
-            text-align: center;
-            padding-left: 4px;
-            padding-top: 15px;
-            padding-right: 20px;
-            padding-bottom: 15px;
-            margin: auto auto;
-            border-radius: 300px;
-            margin-top: 20px;
-            font-size: 20px;
-            background-color: white;
-        }
-        /*-------------------------------------------------------------------------*/
-        .contenedor2{
-            width: 300px;
-            height: 370px;
-            margin-top: -380px;
-            margin-left: 450px;
-         }
+    }
+    .data4{
+        height:"30px";
+        margin-right: -205px;
+        margin-left: -575px;
+        margin-bottom: -50px;
+           margin-bottom: -10px;
+           padding-top: -25px;
+    }
+  
+/*SECCION 8 PARTE 2*/
 
-         .card-precio{
-            float: left;
-            width: 300px;
-            height: 370px;
-            margin-top: 10px;
-            margin-left: 40px;
-            box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
-        
-        }
-        .preciop1  {
-            margin-top: 0px;
-            height: 40%;
-            width: 100%;
-            background-color:#1d4e80;
-        
-        }
-        .preciop1{
-            height: 40%;
-            width: 100%;
-            background-color: #e0e0e0;
-        }
-        .btn{
-            border-color: darkred 2px;
-            margin-top: 20px;
-            margin-left:105px;
-            border-radius:7px ;
-            color:rgb(164, 38, 38);
-        }
-        .preciop1{
-            height: 20%;
-            width: 100%;
-            background-color: #CCC;
-        
-        }
-        .circular{
-        
-            width: 40px;
-            height: 40px;
-            box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
-            text-align: center;
-            padding-left: 4px;
-            padding-top: 15px;
-            padding-right: 20px;
-            padding-bottom: 15px;
-            margin: auto auto;
-            border-radius: 300px;
-            margin-top: 20px;
-            font-size: 20px;
-            background-color: white;
-        }
+.card-2{
+    background-color: #4a5a6c;
+    height: 280px;
+    width: 330px;
+    margin-left: 620px;  
+    margin-top: -275px;  
+}
+.botonred{
+    margin-top: 20px;
+    border-radius: 3px;
+    padding-bottom: 7px;
+    padding-top:7px;
+    color: white;
+    background-color: red;
+    margin-left: 235px;
+    margin-bottom: 20px;
+}
+.card{
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.card-2 h3{
+    padding-top: 25px;
+}
+.data1{
+    float: left;
+    height:"30px";
+    margin-right: 292px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
+.data2{
+    float:right;
+    height:"30px";
+    padding-right: -50px;
+margin-left: -45px;
+    margin-right: 35px;
+    margin-bottom: 4px;
+    padding-top: -15px;
+
+
+}
+.data3{
+    height:"30px";
+    margin-right: 25px;
+    margin-left: -495px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    
+}
+.data4{
+    height:"30px";
+    margin-right: -205px;
+    margin-left: -575px;
+    margin-bottom: -50px;
+       margin-bottom: -10px;
+       padding-top: -25px;
+}
+/*SECCION 8 PARTE 3*/
+.titulocard{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:  #ffffff;
+    text-align:center;
+}
+.infocard{
+
+    color:  #ffffff;
+    text-align:center;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.card-3{
+    background-color: #4a5a6c;
+    height: 280px;
+    width: 330px;
+    margin-left: 1020px;  
+    margin-top: -275px;  
+}
+.botonred{
+    margin-top: 20px;
+    border-radius: 3px;
+    padding-bottom: 7px;
+    padding-top:7px;
+    color: white;
+    background-color: red;
+    margin-left: 235px;
+    margin-bottom: 20px;
+}
+.card{
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.card-3 h3{
+    padding-top: 25px;
+}
+.data1{
+    float: left;
+    height:"30px";
+    margin-right: 292px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
+.data2{
+    float:right;
+    height:"30px";
+    padding-right: -50px;
+margin-left: -45px;
+    margin-right: 35px;
+    margin-bottom: 4px;
+    padding-top: -15px;
+
+
+}
+.data3{
+    height:"30px";
+    margin-right: 25px;
+    margin-left: -495px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    
+}
+.data4{
+    height:"30px";
+    margin-right: -205px;
+    margin-left: -575px;
+    margin-bottom: -50px;
+       margin-bottom: -10px;
+       padding-top: -25px;
+}
+
+
+
      /*---------------------------------------------------------------------------------------------------------*/
 
      .contenedor3{
@@ -971,16 +1078,35 @@ FIN DE LA PARTE 4
 /*------------------------------------------------------------------------------------------------------------------------*/
         .ques8{
             background-color:#139f79;
-            height: 500px;
+            height: 600px;
             margin-bottom: 20pt;
         }
-            .card-precio{
+        /*CODIGO DEL TITULO Y EL PARRAFO*/
+        .titulopre{
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 40px;
+            color:  #ffffff;
+            text-align:center;
+        }
+        .cancelar{
+            margin-left: -60px;
+        }
+        .infop{
+       
+            color:  #ffffff;
+            text-align:center;
+            font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        }
+        /*FIN DEL CODIGO DEL TITULO Y DEL PARRAFO*/
+
+        /**CODIGO PARA LA CREACION Y MODIFICACION DE TABLAS DE PRECIO */
+
+            .card-precio1{
                 float: left;
                 width: 300px;
                 height: 370px;
                 margin-top: 10px;
-                margin-left: 40px;
-            
+                padding-left: 97pt;
                 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
             
             }
@@ -991,18 +1117,65 @@ FIN DE LA PARTE 4
                 background-color:#34495E;
             
             }
-            .preciop2{
+            .preciopp1{
                 height: 40%;
                 width: 100%;
                 background-color: #e0e0e0;
             }
-            .preciop3{
+            .precioppp1{
                 height: 20%;
                 width: 100%;
                 background-color: #CCC;
             
             }
-            .circular{
+
+            .circular1{
+            
+                width: 40px;
+                height: 40px;
+                box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
+                text-align: center;
+                padding-left: 4px;
+                padding-top: 15px;
+                padding-right: 20px;
+                padding-bottom: 15px;
+                margin: auto auto;
+                border-radius: 300px;
+                margin-top: 20px;
+                font-size: 20px;
+                background-color: white;
+            }
+            /*seccion 8 paarte 2*/
+
+            .card-precio2{
+                float: left;
+                width: 300px;
+                height: 370px;
+                margin-top: -275pt;
+                padding-left: 430pt;
+                box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            
+            }
+            .preciop1  {
+                margin-top: 0px;
+                height: 40%;
+                width: 100%;
+                background-color:#34495E;
+            
+            }
+            .preciopp1{
+                height: 40%;
+                width: 100%;
+                background-color: #e0e0e0;
+            }
+            .precioppp1{
+                height: 20%;
+                width: 100%;
+                background-color: #CCC;
+            
+            }
+
+            .circular1{
             
                 width: 40px;
                 height: 40px;
@@ -1019,6 +1192,60 @@ FIN DE LA PARTE 4
                 background-color: white;
             }
     
+/*SECCION PARTE 3*/
+
+.card-precio3{
+    float: left;
+    width: 300px;
+    height: 370px;
+    margin-top: -275pt;
+    padding-left: 830pt;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+}
+.lista_precios1{
+    text-align: center;
+}
+.preciop1  {
+    margin-top: 0px;
+    height: 40%;
+    width: 100%;
+    background-color:#34495E;
+
+}
+.preciop1{
+    text-align: center;
+
+}
+
+.preciopp1{
+    height: 40%;
+    width: 100%;
+    background-color: #e0e0e0;
+}
+.precioppp1{
+    height: 20%;
+    width: 100%;
+    background-color: #CCC;
+
+}
+
+.circular1{
+
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
+    text-align: center;
+    padding-left: 4px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    margin: auto auto;
+    border-radius: 300px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: white;
+}
 
 /*CODIGO DE LA PARTES DE TESTIMONIOS*/
             #ques9{
@@ -1127,7 +1354,7 @@ FIN DE LA PARTE 4
                 .contact{
                     width: 100%;
                     background-color: #34495E;
-                    margin-top: -145px;
+                    margin-top: -175px;
                 }
                 .divs_contact{
                     width: 70%;
@@ -1199,9 +1426,12 @@ FIN DE LA PARTE 4
 
 /*INICIO DE LA PARTE 11*/
 #ques11{
-    background-color: #351abc;
-    height: 250px;
+    background-color: #203c59;
+    height: 105px;
 }
+
+
+
     
 
   
